@@ -25,4 +25,5 @@ Here's a report, used by MHO, that does what I'm suggesting - but the data is a 
 
 http://codeforasheville.github.io/openhousing-industry-affordability
 
-&lt;iframe src="http://codeforasheville.github.io/openhousing-industry-affordability/" width="100%" height="500px"&gt;&lt;/iframe&gt;
+&nbsp;
+<iframe src="http://codeforasheville.github.io/openhousing-industry-affordability/" width="100%" height="500px"></iframe>
