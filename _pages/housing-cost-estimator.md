@@ -23,10 +23,6 @@ Let's build a tool that takes median hourly income for various industries in Ash
 
 &nbsp;
 
-US Dept. of Labor Bureau of Labor Statistics (Wage Data): http://www.bls.gov/oes/current/oes_11700.htm
-
-Here's a report, used by MHO, that does what I'm suggesting - but the data is a bit out of date. We can build a tool that does the same thing, but pulls data directly from the Dept. of Labor!
-
-<a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/05/MHO-Abbreviated-Presentation-Oct-2012-for-Leadership-Asheville-Seniors.pdf">MHO Abbreviated Presentation Oct 2012 for Leadership Asheville Seniors</a>
+&nbsp;
 
 <iframe src="http://codeforasheville.github.io/openhousing-cost-estimator/" width="100%" height="500px"></iframe>
