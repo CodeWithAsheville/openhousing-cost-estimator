@@ -51,7 +51,7 @@ Let's make a tool to help guide connect people in need with the correct resource
 
 Embedded Google Doc - <a href="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/edit#">Click to Edit</a>
 
-<iframe src="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/pub?embedded=true" width="730" height="700"></iframe>
+<iframe src="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/pub?embedded=true" width="100%" height="700"></iframe>
 <ol>
 	<li>Github Repo for Web App
 <ol>
