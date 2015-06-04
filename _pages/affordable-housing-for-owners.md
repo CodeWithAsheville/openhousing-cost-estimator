@@ -1,6 +1,6 @@
 ---
 ID: 14
-post_title: For Owners
+post_title: Owners / Landlords
 author: conantp
 post_date: 2015-05-31 21:03:20
 post_excerpt: ""
