@@ -25,7 +25,7 @@ Task list:
 	<li>Place extracted data into <a href="https://docs.google.com/spreadsheets/d/1puKFsoTROeKNmPut6LqHyEFXO24Xa8dOvd2XWYf0rJY/edit?usp=sharing">Wages by Industry Data for WNC and Asheville</a></li>
 </ol>
 </li>
-	<li>Phase One Development
+	<li>Phase One Design + Development
 <ol>
 	<li>For each industry listed in the data, calculate the 30% number for "affordability" and display a table</li>
 </ol>
