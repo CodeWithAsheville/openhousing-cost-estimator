@@ -17,6 +17,6 @@ https://drive.google.com/folderview?id=0B0lTUpYkWIIQfno3VVVVOGNDelFWWmV0OVphT0tm
 
 &nbsp;
 
-Embedded Google Doc:
+<a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">Embedded Google Doc (click link to edit!)</a>
 
 <iframe src="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/pub?embedded=true" width="100%" height="500"></iframe>
