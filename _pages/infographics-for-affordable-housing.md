@@ -19,7 +19,7 @@ Here's an example from Durham:
 
 Github repository: <a href="https://github.com/CodeForAsheville/openhousing-infographics">https://github.com/CodeForAsheville/openhousing-infographics</a>
 
-<a href="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/edit#">Working Document (edit):</a> 
+<a href="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/edit#">Working Document (edit):</a>
 <iframe src="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/pub?embedded=true" width="100%" height="800"></iframe>
 
 &gt;
