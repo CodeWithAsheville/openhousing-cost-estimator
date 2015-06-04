@@ -15,4 +15,4 @@ wp_github_commits_page_fields:
 
 Embedded Google Doc: <a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">Click to edit</a>
 
-<iframe src="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/pub?embedded=true" width="100%" height="500"></iframe>
+<iframe src="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/pub?embedded=true" width="100%" height="700"></iframe>
