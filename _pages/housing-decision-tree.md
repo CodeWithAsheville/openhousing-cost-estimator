@@ -27,6 +27,25 @@ Let's make a tool to help guide connect people in need with the correct resource
 </li>
 </ol>
 <ol>
+	<li>Need Housing (Renters / Homeless):
+<ol>
+	<li>Support organizations
+<ol>
+	<li>Gather links</li>
+</ol>
+</li>
+	<li>Programs / resources that can help</li>
+	<li>Concepts of affordability</li>
+	<li>Creative solutions
+<ol>
+	<li>Shared living</li>
+	<li>Transportation options</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<ol>
 	<li>Working Document
 <ol>
 	<li>Contains full decision tree</li>
