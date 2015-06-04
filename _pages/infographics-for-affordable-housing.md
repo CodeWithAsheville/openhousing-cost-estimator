@@ -13,6 +13,8 @@ wp_github_commits_page_fields:
 ---
 For designers / statisticians / storytellers - let's build some infographics around Affordable Housing in Asheville and WNC. We'll figure out the story we want to tell, gather some numbers, and make a really nice looking graphic. After the event, we can send this out to local organizations and the media to help highlight the issues we're facing locally.
 
+Github repository: <a href="https://github.com/CodeForAsheville/openhousing-infographics">https://github.com/CodeForAsheville/openhousing-infographics</a>
+
 Here's an example from Durham:
 
 <a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg">image001.jpg</a>
