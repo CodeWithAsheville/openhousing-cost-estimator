@@ -47,7 +47,8 @@ We also need help finding resources for app and infographic building, we have a 
 <strong>If you're a developer:
 </strong>We will need help building the components of the housing portal! Our main focus will be a decision tree application that will allow better access to affordable housing from both ends. We also would like to build a Twilio app that offers this service to those without computers or smartphones.
 
-&nbsp;
+<strong>Slack
+</strong>If you're part of the Code for Asheville Slack team, post your questions, answers, comments, and ideas to our #hackforchange channel. If you're not a part of our Slack team, <a href="http://codeforasheville.org/slack">sign up here</a>!
 
 <strong>Github</strong>
 
