@@ -42,6 +42,8 @@ Let's make a tool to help guide connect people in need with the correct resource
 	<li>Transportation options</li>
 </ol>
 </li>
+	<li>Homeownership assistance programs</li>
+	<li>Emergency programs</li>
 </ol>
 </li>
 </ol>
