@@ -36,19 +36,16 @@ We have broken our housing portal into three sections. The hierarchy is below:
 </ul>
 </li>
 </ul>
-<strong>If you're a designer:</strong>
+<strong>If you're a designer:
+</strong>We have multiple design needs, from page layouts to infographics. You may be interested in our <a href="http://dev-open-housing-asheville.pantheon.io/infographics-for-affordable-housing/">infographics</a> section. We will need a corresponding decision tree graphic to complement the housing decision tree apps for both <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">landlord/home-owner</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
 
-We have multiple design needs, from page layouts to infographics. You may be interested in our <a href="http://dev-open-housing-asheville.pantheon.io/infographics-for-affordable-housing/">infographics</a> section. We will need a corresponding decision tree graphic to complement the housing decision tree apps for both <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">landlord/home-owner</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
-
-<strong>If you're a real-estate professional:</strong>
-
-We need your help determining what questions to be asked for tenants and any considerations that may help our decision-making apps for <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">home-owner/landlord</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
+<strong>If you're a real-estate professional:
+</strong>We need your help determining what questions to be asked for tenants and any considerations that may help our decision-making apps for <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">home-owner/landlord</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
 
 We also need help finding resources for app and infographic building, we have a google doc for resources set up <a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">here</a>.
 
-<strong>If you're a developer:</strong>
-
-We will need help building the components of the housing portal! Our main focus will be a decision tree application that will allow better access to affordable housing from both ends. We also would like to build a Twilio app that offers this service to those without computers or smartphones.
+<strong>If you're a developer:
+</strong>We will need help building the components of the housing portal! Our main focus will be a decision tree application that will allow better access to affordable housing from both ends. We also would like to build a Twilio app that offers this service to those without computers or smartphones.
 
 &nbsp;
 
