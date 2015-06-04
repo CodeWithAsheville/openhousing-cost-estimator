@@ -49,14 +49,12 @@ We also need help finding resources for app and infographic building, we have a 
 
 <hr />
 
-&nbsp;
 <h3><strong>Slack
 </strong></h3>
 If you're part of the Code for Asheville Slack team, post your questions, answers, comments, and ideas to our #hackforchange channel. If you're not a part of our Slack team, <a href="http://codeforasheville.org/slack">sign up here</a>!
 
 <hr />
 
-&nbsp;
 <h3><strong>Github</strong></h3>
 The Code for Asheville <a href="https://github.com/CodeForAsheville">Github account</a> will house all of the projects we will be working on. We've added a few repositories to start, but if you'd like to add another one, we can help you push it to our Github Account.
 
@@ -85,7 +83,6 @@ We'd like to version control and make publicly available as much as we can, so 
 
 <hr />
 
-&nbsp;
 <h3><b>Google Docs</b></h3>
 The main folder that houses everything is <a href="https://drive.google.com/drive/u/0/folders/0B5M7hmH7345JR3hFTjBGcm55TVE/0B0lTUpYkWIIQfno3VVVVOGNDelFWWmV0OVphT0tmZ1NsdWxVNFFLbEp0OE5Sb2NFOUs2Szg">here</a>
 
