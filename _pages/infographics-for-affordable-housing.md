@@ -1,6 +1,6 @@
 ---
 ID: 40
-post_title: Infographics for Affordable Housing
+post_title: Infographics
 author: conantp
 post_date: 2015-06-04 16:48:02
 post_excerpt: ""
