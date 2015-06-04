@@ -1,6 +1,6 @@
 ---
 ID: 85
-post_title: Housing Decision Tree
+post_title: Home-Seeker Decision Tree
 author: conantp
 post_date: 2015-06-04 19:05:11
 post_excerpt: ""
