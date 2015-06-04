@@ -17,10 +17,6 @@ Here's an example from Durham:
 
 <a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg">image001.jpg</a>
 
-&nbsp;
-
-<a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg"><img class="alignnone size-medium wp-image-41" src="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001-56x300.jpg" alt="image001" width="56" height="300" /></a>
-
 Github repository: <a href="https://github.com/CodeForAsheville/openhousing-infographics">https://github.com/CodeForAsheville/openhousing-infographics</a>
 
 <a href="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/edit#">Working Document (edit):</a> <iframe src="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/pub?embedded=true" width="100%" height="800"></iframe>
