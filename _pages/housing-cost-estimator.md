@@ -6,7 +6,7 @@ post_date: 2015-05-31 20:57:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-open-housing-asheville.pantheon.io/housing-cost-estimator/
+  http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-cost-estimator/
 published: true
 wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
