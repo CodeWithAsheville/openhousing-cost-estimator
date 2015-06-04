@@ -49,13 +49,13 @@ We also need help finding resources for app and infographic building, we have a 
 
 <hr />
 
-<h3><strong>Slack
-</strong></h3>
+<h3><b>Slack
+</b></h3>
 If you're part of the Code for Asheville Slack team, post your questions, answers, comments, and ideas to our #hackforchange channel. If you're not a part of our Slack team, <a href="http://codeforasheville.org/slack">sign up here</a>!
 
 <hr />
 
-<h3><strong>Github</strong></h3>
+<h3><b>Github</b></h3>
 The Code for Asheville <a href="https://github.com/CodeForAsheville">Github account</a> will house all of the projects we will be working on. We've added a few repositories to start, but if you'd like to add another one, we can help you push it to our Github Account.
 
 We have added 5 repo's with project ideas that are ready for your contributions immediately:
