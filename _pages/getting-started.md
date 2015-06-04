@@ -12,7 +12,7 @@ wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
 ---
 <h2>Welcome to Open Housing Asheville</h2>
-Great to see you! We have prepared some foundational materials to help everyone get up and running as quickly as possible. Below is a comprehensive overview of the resources we have available. Please review the following steps and materials to get started.
+It's great to have you here! We have prepared some foundational materials to help everyone get up and running as quickly as possible. Below is a comprehensive overview of the resources we have available. Please review the following steps and materials to get started.
 
 We are using embedded apps and google docs to allow easy collaboration. App pages will contain the embedded app, the github repo link, and an embedded google doc, as well as a brief overview.
 
@@ -47,11 +47,17 @@ We also need help finding resources for app and infographic building, we have a 
 <strong>If you're a developer:
 </strong>We will need help building the components of the housing portal! Our main focus will be a decision tree application that will allow better access to affordable housing from both ends. We also would like to build a Twilio app that offers this service to those without computers or smartphones.
 
-<strong>Slack
-</strong>If you're part of the Code for Asheville Slack team, post your questions, answers, comments, and ideas to our #hackforchange channel. If you're not a part of our Slack team, <a href="http://codeforasheville.org/slack">sign up here</a>!
+<hr />
 
-<strong>Github</strong>
+&nbsp;
+<h3><strong>Slack
+</strong></h3>
+If you're part of the Code for Asheville Slack team, post your questions, answers, comments, and ideas to our #hackforchange channel. If you're not a part of our Slack team, <a href="http://codeforasheville.org/slack">sign up here</a>!
 
+<hr />
+
+&nbsp;
+<h3><strong>Github</strong></h3>
 The Code for Asheville <a href="https://github.com/CodeForAsheville">Github account</a> will house all of the projects we will be working on. We've added a few repositories to start, but if you'd like to add another one, we can help you push it to our Github Account.
 
 We have added 5 repo's with project ideas that are ready for your contributions immediately:
@@ -77,8 +83,10 @@ Our main objective is to build a guided housing decision matrix that will help b
 
 We'd like to version control and make publicly available as much as we can, so we're happy to help if anyone has questions about pushing their work to Github.
 
-<b>Google Docs</b>
+<hr />
 
+&nbsp;
+<h3><b>Google Docs</b></h3>
 The main folder that houses everything is <a href="https://drive.google.com/drive/u/0/folders/0B5M7hmH7345JR3hFTjBGcm55TVE/0B0lTUpYkWIIQfno3VVVVOGNDelFWWmV0OVphT0tmZ1NsdWxVNFFLbEp0OE5Sb2NFOUs2Szg">here</a>
 
 In addition to shared documents that we will be using to collaborate on the apps, we have also seeded this collection with some data collections.
