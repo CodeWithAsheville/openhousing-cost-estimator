@@ -40,9 +40,15 @@ We have broken our housing portal into three sections. The hierarchy is below:
 
 We have multiple design needs, from page layouts to infographics. You may be interested in our <a href="http://dev-open-housing-asheville.pantheon.io/infographics-for-affordable-housing/">infographics</a> section. We will need a corresponding decision tree graphic to complement the housing decision tree apps for both <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">landlord/home-owner</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
 
-&nbsp;
-<h3>Resources</h3>
-<strong>Open Housing Portal</strong>
+<strong>If you're a real-estate professional:</strong>
+
+We need your help determining what questions to be asked for tenants and any considerations that may help our decision-making apps for <a href="http://dev-open-housing-asheville.pantheon.io/home-ownerlandlord-decision-tree/">home-owner/landlord</a> and <a href="http://dev-open-housing-asheville.pantheon.io/affordable-housing-guide-for-renters/housing-decision-tree/">home-seekers</a>.
+
+We also need help finding resources for app and infographic building, we have a google doc for resources set up <a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">here</a>.
+
+<strong>If you're a developer:</strong>
+
+We will need help building the components of the housing portal! Our main focus will be a decision tree application that will allow better access to affordable housing from both ends. We also would like to build a Twilio app that offers this service to those without computers or smartphones.
 
 &nbsp;
 
@@ -50,11 +56,11 @@ We have multiple design needs, from page layouts to infographics. You may be int
 
 The Code for Asheville <a href="https://github.com/CodeForAsheville">Github account</a> will house all of the projects we will be working on. We've added a few repositories to start, but if you'd like to add another one, we can help you push it to our Github Account.
 
-We have added 3 repo's with project ideas that are ready for your contributions immediately:
+We have added 5 repo's with project ideas that are ready for your contributions immediately:
 <a href="https://github.com/CodeForAsheville/openhousing-owner-decision-tree" target="_blank">
-</a>Housing decision Tree: <a href="https://github.com/CodeForAsheville/openhousing-seeker-decision-tree" target="_blank">Home Seekers</a> | <a href="https://github.com/CodeForAsheville/openhousing-owner-decision-tree" target="_blank">Home Owners/Rental Agencies</a>
+</a>Housing decision Tree: <a href="https://github.com/CodeForAsheville/openhousing-seeker-decision-tree" target="_blank">Home Seekers</a> | <a href="https://github.com/CodeForAsheville/openhousing-owner-decision-tree" target="_blank">Home-Owners/Landlords</a>
 
-Our main objective is to build a guided housing decision matrix that will help both home-owners and home-seekers determine the best course of action given their specific requirements. The three components of this project are:
+Our main objective is to build a guided housing decision matrix that will help both home-owners/landlords and home-seekers determine the best course of action given their specific requirements. The three components of this project are:
 <ol>
 	<li>Determine step-by-step questions and recommendations for rental agencies/sellers, and home-seekers (great for people who want to collect data or information, and real estate experts)</li>
 	<li>Create an infographic that represents the steps in the decision tree, and the flow for both home-owners and home-seekers.</li>
