@@ -47,12 +47,8 @@ Let's make a tool to help guide connect people in need with the correct resource
 </ol>
 </li>
 </ol>
+<iframe src="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/pub?embedded=true"></iframe>
 <ol>
-	<li>Working Document
-<ol>
-	<li>Contains full decision tree</li>
-</ol>
-</li>
 	<li>Github Repo for Web App
 <ol>
 	<li>Builds app off of working document</li>
