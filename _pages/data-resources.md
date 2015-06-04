@@ -13,6 +13,6 @@ wp_github_commits_page_fields:
 ---
 <a href="https://drive.google.com/folderview?id=0B0lTUpYkWIIQfno3VVVVOGNDelFWWmV0OVphT0tmZ1NsdWxVNFFLbEp0OE5Sb2NFOUs2Szg&amp;usp=sharing">Datasets / Documents on Google Drive</a>
 
-<a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">Embedded Google Doc (click link to edit!)</a>
+Embedded Google Doc: <a href="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/edit#">Click to edit</a>
 
 <iframe src="https://docs.google.com/document/d/1Ch13fH5d5W4KyP2rcjngwwZ_Gw53QYu946aeyZhwnd4/pub?embedded=true" width="100%" height="500"></iframe>
