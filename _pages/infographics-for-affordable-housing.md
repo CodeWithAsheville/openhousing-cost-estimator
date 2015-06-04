@@ -11,30 +11,6 @@ published: true
 wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
 ---
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 For designers / statisticians / storytellers - let's build some infographics around Affordable Housing in Asheville and WNC. We'll figure out the story we want to tell, gather some numbers, and make a really nice looking graphic. After the event, we can send this out to local organizations and the media to help highlight the issues we're facing locally.
 
 Here's an example from Durham:
