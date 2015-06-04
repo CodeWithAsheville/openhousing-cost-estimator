@@ -13,12 +13,17 @@ wp_github_commits_page_fields:
 ---
 For designers / statisticians / storytellers - let's build some infographics around Affordable Housing in Asheville and WNC. We'll figure out the story we want to tell, gather some numbers, and make a really nice looking graphic. After the event, we can send this out to local organizations and the media to help highlight the issues we're facing locally.
 
-Github repository: <a href="https://github.com/CodeForAsheville/openhousing-infographics">https://github.com/CodeForAsheville/openhousing-infographics</a>
-
 Here's an example from Durham:
 
 <a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg">image001.jpg</a>
 
 &nbsp;
 
-<a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg"><img class="alignnone size-medium wp-image-41" src="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001-56x300.jpg" alt="image001" width="56" height="300" /></a>
+<a href="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001.jpg"><img class="alignnone size-medium wp-image-41" src="http://dev-open-housing-asheville.pantheon.io/wp-content/uploads/2015/06/image001-56x300.jpg" alt="image001" width="56" height="300" /
+
+Github repository: <a href="https://github.com/CodeForAsheville/openhousing-infographics">https://github.com/CodeForAsheville/openhousing-infographics</a>
+
+Working Document (edit):
+<iframe width='100%' height='800' src="https://docs.google.com/document/d/1X5Y8dYYjCtRnHNlgs6NY_qp5bu33AUl7S2iBdxqpDmc/pub?embedded=true"></iframe>
+&nbsp;
+></a>
