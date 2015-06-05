@@ -17,8 +17,6 @@ Let's build a tool that calculates what level of rent meets the 30% affordabilit
 
 Task list:
 <ol>
-	<li>Data Tasks</li>
+	<li></li>
 </ol>
-&nbsp;
-
 <iframe src="http://codeforasheville.github.io/openhousing-cost-estimator/" width="100%" height="500px"></iframe>
