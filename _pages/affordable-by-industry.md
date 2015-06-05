@@ -42,14 +42,10 @@ Task list:
 </li>
 	<li>Phase Two Development
 <ol>
-	<li>Consider proportion of each industry - what is actually "affordable" for most of Asheville?</li>
+	<li>Consider proportion of each industry - what is "affordable" for X percent of Asheville?</li>
 </ol>
 </li>
 </ol>
-&nbsp;
-
-&nbsp;
-
 &nbsp;
 
 <iframe src="http://codeforasheville.github.io/openhousing-industry-affordability/" width="100%" height="500px"></iframe>
