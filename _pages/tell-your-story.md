@@ -21,12 +21,4 @@ Let's help each other find solutions by creating a knowledge base through story 
 
 Embedded Google Doc: <a href="https://docs.google.com/document/d/18SeeU-5cQ2KiV-8boEAXDbshg5lnFFnT46PtX7hr-wQ/edit#heading=h.jlnlim5vhwki">Click to edit</a>
 
-&lt;iframe src="https://docs.google.com/document/d/18SeeU-5cQ2KiV-8boEAXDbshg5lnFFnT46PtX7hr-wQ/pub?embedded=true" width="100%" height="700"&gt;&lt;/iframe&gt;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<iframe src="https://docs.google.com/document/d/18SeeU-5cQ2KiV-8boEAXDbshg5lnFFnT46PtX7hr-wQ/pub?embedded=true" width="100%" height="700"></iframe>
