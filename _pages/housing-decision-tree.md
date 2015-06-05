@@ -11,39 +11,62 @@ published: true
 wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
 ---
-Let's make a tool to help guide connect people in need with the correct resources.
+Let's make a tool to help guide people in need towards the correct resources.
+
+<strong>Example: <a href="https://www.gov.uk/pay-leave-for-parents/y">https://www.gov.uk/pay-leave-for-parents/y</a></strong>
+
+<strong>Core Concepts:</strong>
 <ol>
-	<li>Ask the user for some information about their situation - household size, income level, etc</li>
-	<li>Display resources that they may be eligible for</li>
-	<li>Display available properties that may be affordable for them?
+	<li>Ask the user for some information about their situation - household size, income level, etc
+<ol>
+	<li>Homeless / Seeking Rental / Seeking Homeownership</li>
+</ol>
+</li>
+	<li>Display resources that can assist with their situation</li>
+	<li>Display available properties?
 <ol>
 	<li>If no properties exist, what else can they do?
 <ol>
+	<li>Creative Solutions?
+<ol>
 	<li>Shared housing?</li>
+</ol>
+</li>
 	<li>Emergency housing / shelter</li>
 </ol>
 </li>
 </ol>
 </li>
-</ol>
+	<li>Gather links for Support organizations / programs</li>
+	<li>Describe concepts of affordability (30%)</li>
+	<li>Auxiliary ideas
 <ol>
-	<li>Need Housing (Renters / Homeless):
-<ol>
-	<li>Support organizations
-<ol>
-	<li>Gather links</li>
+	<li>Transportation resources</li>
 </ol>
 </li>
-	<li>Programs / resources that can help</li>
-	<li>Concepts of affordability</li>
-	<li>Creative solutions
+</ol>
+&nbsp;
+
+<strong>Project Components:</strong>
 <ol>
-	<li>Shared living</li>
-	<li>Transportation options</li>
+	<li><strong>Decision Tree Logic</strong>
+<ol>
+	<li><strong>Developed by a team, written into a Google Doc</strong></li>
 </ol>
 </li>
-	<li>Homeownership assistance programs</li>
-	<li>Emergency programs</li>
+	<li>Github Repo for Web App
+<ol>
+	<li>Builds app off of working  Google Doc</li>
+</ol>
+</li>
+	<li>Infographic
+<ol>
+	<li>Builds infographic off of working  Google Doc</li>
+</ol>
+</li>
+	<li>Strech Goal: Twillio App
+<ol>
+	<li>Provides same decision tree via SMS / Phone</li>
 </ol>
 </li>
 </ol>
@@ -53,20 +76,5 @@ Embedded Google Doc - <a href="https://docs.google.com/document/d/1I-Hnl4bFDjw1X
 
 <iframe src="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/pub?embedded=true" width="100%" height="700"></iframe>
 <ol>
-	<li>Github Repo for Web App
-<ol>
-	<li>Builds app off of working document</li>
+	<li></li>
 </ol>
-</li>
-	<li>Infographic
-<ol>
-	<li>Builds infographic off of working document</li>
-</ol>
-</li>
-	<li>Strech Goal: Twillio App
-<ol>
-	<li>Provides same decision tree via SMS</li>
-</ol>
-</li>
-</ol>
-&nbsp;
