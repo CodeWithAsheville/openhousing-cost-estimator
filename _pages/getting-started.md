@@ -29,7 +29,7 @@ We have broken our housing portal into three sections. The hierarchy is below:
 	<li>Home-owner/landlord decision tree app (gdoc + app/repo)</li>
 </ul>
 </li>
-	<li>Challenges + Solutions (gdoc)
+	<li>Advocate for Affordability (gdoc)
 <ul>
 	<li>Infographics (gdoc + repo)</li>
 	<li>Affordable by industry (gdoc + app/repo)</li>
