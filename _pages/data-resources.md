@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: Challenges + Solutions
+post_title: Data + Resources
 author: conantp
 post_date: 2015-06-04 16:25:07
 post_excerpt: ""
