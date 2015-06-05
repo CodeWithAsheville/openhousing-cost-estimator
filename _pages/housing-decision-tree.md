@@ -49,9 +49,9 @@ Let's make a tool to help guide people in need towards the correct resources.
 
 <strong>Project Components:</strong>
 <ol>
-	<li><strong>Decision Tree Logic</strong>
+	<li>Decision Tree Logic
 <ol>
-	<li><strong>Developed by a team, written into a Google Doc</strong></li>
+	<li>Developed by a team, written into a Google Doc</li>
 </ol>
 </li>
 	<li>Github Repo for Web App
@@ -75,6 +75,3 @@ Let's make a tool to help guide people in need towards the correct resources.
 Embedded Google Doc - <a href="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/edit#">Click to Edit</a>
 
 <iframe src="https://docs.google.com/document/d/1I-Hnl4bFDjw1XNGv4PeBG3dHV5ds6A5i3BJxzu9EIm0/pub?embedded=true" width="100%" height="700"></iframe>
-<ol>
-	<li></li>
-</ol>
