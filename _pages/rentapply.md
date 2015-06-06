@@ -12,9 +12,7 @@ wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
 ---
 <a href="http://codeforasheville.github.io/openhousing-rentapply/">View Demo</a>
-<iframe src='http://codeforasheville.github.io/openhousing-rentapply/' width='100%' height='500'></iframe>
-&nbsp;
-
+<iframe src="http://codeforasheville.github.io/openhousing-rentapply/" width="100%" height="800"></iframe>
 RentApply is an application that allows prospective tenants to submit a single, consolidated rental application that will offers a comprehensive evaluation of the tenant and can be reviewed by multiple property owners.
 
 <a href="https://github.com/CodeForAsheville/openhousing-rentapply">Github repo for this project</a>
