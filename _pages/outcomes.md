@@ -13,4 +13,4 @@ wp_github_commits_page_fields:
 ---
 <a href="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/edit#">Edit this document</a>
 
-<iframe src="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/pub?embedded=true" width="300" height="150"></iframe>
+<iframe src="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/pub?embedded=true" width="100%" height="500"></iframe>
