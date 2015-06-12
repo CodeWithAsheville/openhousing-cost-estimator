@@ -113,8 +113,10 @@ wp_github_commits_page_fields:
 <div class=""></div>
 <div class=""><img id="1B5CEC96-12E6-4973-BAB9-C8C8B43D245D" class="" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1024299322/original/suburbs_1.jpg?1434117831" alt="" width="150" height="100" /></div></td>
 <td class="" align="left"></td>
-<td class="" align="left"><br class="" />
-<div class=""><span class=""><span class="">Housing Beyond the Center City</span></span>
+<td class="" align="left">&nbsp;
+<div class="">
+
+<span class=""><span class="">Housing Beyond the Center City</span></span>
 <div class="">Harvard Graduate School of Design Master in Urban Planning candidate Margaret Scott explores the issue of housing affordability through the lens of suburban America. The post describes how affordable housing in the suburbs—a blind spot in the affordability debate—is instructive for understanding the political dimensions of the issue.<br class="" /><a class="" href="http://t.ymlp228.net/usebjakaeswqwaaauubavaumjuu/click.php">Continue reading →</a></div>
 </div>
 <div class=""></div></td>
@@ -207,7 +209,25 @@ wp_github_commits_page_fields:
 <table style="font-family: inherit; font-size: inherit; line-height: 1.5;" width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
-<td class=""></td>
+<td class="" align="left">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody class="">
+<tr class="">
+<td class="" align="left">
+<div class=""></div>
+<div class=""><img id="6173D6B3-291B-4A3C-84B9-CF4BB129EB71" class="" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1024299346/original/elbarrio2_2.jpg?1434117841" alt="" width="105" height="123" align="right" /></div></td>
+<td class="" align="left"></td>
+<td class="" align="left">
+<div class=""></div>
+<div class=""><span class=""><span class="">The Role of Film in Fighting Displacement</span></span></div>
+<div class="">
+<div class="">Documentary filmmaker Andrew J. Padilla discusses his films <i class="">El Barrio Tours: Gentrification in East Harlem</i> and <i class="">El Barrio Tours: Gentrification USA</i>. Padilla reflects on how he and fellow filmmakers can engage communities in political awakening, coalition building, and mobilizing action toward positive change.</div>
+<div class=""><a class="" href="http://t.ymlp228.net/usebyataeswqwafauubataumjuu/click.php">Continue reading →</a></div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</td>
 </tr>
 </tbody>
 </table>
@@ -230,31 +250,6 @@ wp_github_commits_page_fields:
 <div class="">Documentary filmmaker King Williams shares the issues that motivate his filmmaking and what his film, <i class="">The Atlanta Way</i>, can tell us about the health of American democracy. In his piece Williams describes his efforts as a filmmaker to give voice to communities who very often are the voiceless objects of urban policy decisions. <br class="" /><a class="" href="http://t.ymlp228.net/usebqalaeswqwaiauubafaumjuu/click.php">Continue reading →</a></div>
 </div>
 <div class=""></div>
-</div></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class="" align="left">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class="" align="left">
-<div class=""></div>
-<div class=""><img id="6173D6B3-291B-4A3C-84B9-CF4BB129EB71" class="" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1024299346/original/elbarrio2_2.jpg?1434117841" alt="" width="105" height="123" align="right" /></div></td>
-<td class="" align="left"></td>
-<td class="" align="left">
-<div class=""></div>
-<div class=""><span class=""><span class="">The Role of Film in Fighting Displacement</span></span></div>
-<div class="">
-<div class="">Documentary filmmaker Andrew J. Padilla discusses his films <i class="">El Barrio Tours: Gentrification in East Harlem</i> and <i class="">El Barrio Tours: Gentrification USA</i>. Padilla reflects on how he and fellow filmmakers can engage communities in political awakening, coalition building, and mobilizing action toward positive change.</div>
-<div class=""><a class="" href="http://t.ymlp228.net/usebyataeswqwafauubataumjuu/click.php">Continue reading →</a></div>
 </div></td>
 </tr>
 </tbody>
