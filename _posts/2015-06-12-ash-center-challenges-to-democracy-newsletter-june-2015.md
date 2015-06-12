@@ -56,13 +56,6 @@ wp_github_commits_page_fields:
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
-<td class=""></td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
 <td class="" align="left">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody class="">
@@ -76,18 +69,13 @@ wp_github_commits_page_fields:
 <div class="">
 <div class=""><span class=""><span class="">Democracy and the Challenge of Affordability: The Case of Housing</span></span></div>
 <div class="">Harvard Kennedy School Assistant Professor Quinton Mayne kicks off the series. “Democratically elected officials in city halls, state capitols, and the corridors of power in Washington, D.C. are struggling to systematically respond to the challenge of affordability," he writes. “Nowhere is the democratic challenge of affordability more obvious than in the case of housing.” <br class="" /><a class="" href="http://t.ymlp228.net/usebeataeswqwarauubaiaumjuu/click.php" target="_blank">Continue reading →</a></div>
-<br class="" /><span class=""><span class=""> </span></span></div></td>
+<br class="" /><span class=""><span class=""> </span></span>
+
+</div></td>
 </tr>
 </tbody>
 </table>
 </td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class=""></td>
 </tr>
 </tbody>
 </table>
@@ -117,13 +105,6 @@ wp_github_commits_page_fields:
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
-<td class=""></td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
 <td class="" align="left">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody class="">
@@ -136,20 +117,11 @@ wp_github_commits_page_fields:
 <div class=""><span class=""><span class="">Housing Beyond the Center City</span></span>
 <div class="">Harvard Graduate School of Design Master in Urban Planning candidate Margaret Scott explores the issue of housing affordability through the lens of suburban America. The post describes how affordable housing in the suburbs—a blind spot in the affordability debate—is instructive for understanding the political dimensions of the issue.<br class="" /><a class="" href="http://t.ymlp228.net/usebjakaeswqwaaauubavaumjuu/click.php">Continue reading →</a></div>
 </div>
-<div class="">
-<div class=""></div>
-</div></td>
+<div class=""></div></td>
 </tr>
 </tbody>
 </table>
 </td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class=""></td>
 </tr>
 </tbody>
 </table>
@@ -182,13 +154,6 @@ wp_github_commits_page_fields:
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
-<td class=""></td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
 <td class="" align="left">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody class="">
@@ -209,13 +174,6 @@ wp_github_commits_page_fields:
 </tbody>
 </table>
 </td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class=""></td>
 </tr>
 </tbody>
 </table>
@@ -246,7 +204,7 @@ wp_github_commits_page_fields:
 </tr>
 </tbody>
 </table>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table style="font-family: inherit; font-size: inherit; line-height: 1.5;" width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
 <td class=""></td>
@@ -277,13 +235,6 @@ wp_github_commits_page_fields:
 </tbody>
 </table>
 </td>
-</tr>
-</tbody>
-</table>
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class=""></td>
 </tr>
 </tbody>
 </table>
