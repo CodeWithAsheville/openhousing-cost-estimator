@@ -25,7 +25,7 @@ wp_github_commits_page_fields:
 <tbody class="">
 <tr class="">
 <td class="" align="left">
-<div class="">
+<div class="" style="text-align: left;">
 <div class="">
 <div class="">We hope you will enjoy this special edition of the <i class="">Challenges to Democracy</i> newsletter in which we highlight our recent series of blog postings on affordability as a challenge to the health of American democracy. Edited by our colleague Assistant Professor of Public Policy <a class="" href="http://t.ymlp228.net/usebuavaeswqwapauubafaumjuu/click.php">Quinton Mayne</a>, the series includes commentaries and thought pieces examining the issue of housing affordability from a variety of angles. Themes include the problem at hand, policy and institutional responses, and the role of nonprofits and filmmakers in community activism.</div>
 <div class=""></div>
@@ -34,8 +34,8 @@ wp_github_commits_page_fields:
 <div class="">As always, we welcome your comments and contributions to the series and to our newsletter and blog.</div>
 </div>
 <div class=""></div>
-<div class="" align="right">Sincerely,</div>
-<div class="" align="right">Tony Saich, Director of the Ash Center and Daewoo Professor of International Affairs</div>
+<div class="">Sincerely,</div>
+<div class="">Tony Saich, Director of the Ash Center and Daewoo Professor of International Affairs</div>
 </div>
 <div class="">Archon Fung, Acting Dean and Ford Foundation Professor of Democracy and Citizenship<i class=""><br class="" /></i></div></td>
 </tr>
