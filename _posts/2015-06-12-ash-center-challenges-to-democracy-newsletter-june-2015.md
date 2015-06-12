@@ -13,18 +13,6 @@ published: true
 wp_github_commits_page_fields:
   - 'a:3:{s:15:"gc_widget_title";s:0:"";s:11:"github_user";s:0:"";s:11:"github_repo";s:0:"";}'
 ---
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class="" align="center">
-<table border="0" width="600" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class="" align="left">
-<table width="100%" cellspacing="0" cellpadding="0">
-<tbody class="">
-<tr class="">
-<td class="" align="left">
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
@@ -113,7 +101,7 @@ wp_github_commits_page_fields:
 <div class=""></div>
 <div class=""><img id="1B5CEC96-12E6-4973-BAB9-C8C8B43D245D" class="" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1024299322/original/suburbs_1.jpg?1434117831" alt="" width="150" height="100" /></div></td>
 <td class="" align="left"></td>
-<td class="" align="left">&nbsp;
+<td class="" align="left">
 <div class="">
 
 <span class=""><span class="">Housing Beyond the Center City</span></span>
@@ -206,7 +194,7 @@ wp_github_commits_page_fields:
 </tr>
 </tbody>
 </table>
-<table style="font-family: inherit; font-size: inherit; line-height: 1.5;" width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tbody class="">
 <tr class="">
 <td class="" align="left">
@@ -249,20 +237,7 @@ wp_github_commits_page_fields:
 <div class=""><span class=""><span class="">Using Film to Raise the Issue of Housing Affordability</span></span></div>
 <div class="">Documentary filmmaker King Williams shares the issues that motivate his filmmaking and what his film, <i class="">The Atlanta Way</i>, can tell us about the health of American democracy. In his piece Williams describes his efforts as a filmmaker to give voice to communities who very often are the voiceless objects of urban policy decisions. <br class="" /><a class="" href="http://t.ymlp228.net/usebqalaeswqwaiauubafaumjuu/click.php">Continue reading →</a></div>
 </div>
-<div class=""></div>
 </div></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 </tr>
 </tbody>
 </table>
