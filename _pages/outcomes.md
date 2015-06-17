@@ -15,7 +15,7 @@ wp_github_commits_page_fields:
 <a href="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/edit#">View Google Doc for these outcomes</a>
 <a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">
 </a>
-<h2 class="c1 c13"><a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">Bowen Report Group:</a></h2>
+<h2 class="c1 c13">Bowen Report Group - <a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">view project</a></h2>
 <p class="c1"><img title="" src="https://lh6.googleusercontent.com/r42OegHqFuYjGX5pyWn9VLulX-X8Fg2FMnU-H76rfjS97j3KdvMGqguU1MWWsHMBgfqgooIkKip9AVne_9jln0UQ8A9djVIizn0Xzr_4dOOZwx4s_VuWHngmqHwG6BC8vpDToeo" alt="infographic-shortened.jpg" /></p>
 <p class="c1"><span class="c5">View the github repo (has images, source doc, and source graphics):</span></p>
 <p class="c1"><span class="c11"><a class="c6" href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FCodeForAsheville%2Fopenhousing-Bowen-Report-Breakdown&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE1YBW2i632pcWkT0KksiEMmz4SaA">https://github.com/CodeForAsheville/openhousing-Bowen-Report-Breakdown</a></span></p>
@@ -45,7 +45,7 @@ wp_github_commits_page_fields:
 	<li class="c1 c8">Reach out to local media to let them know what we’re doing (A C-T, AVL Blade, MountainX, CPP)</li>
 	<li class="c1 c8">Continue the conversation</li>
 </ol>
-<h1 class="c1 c13"><a href="http://dev-open-housing-asheville.pantheon.io/rentapply/"><span class="c11">RentApply Group</span></a></h1>
+<h2 class="c1 c13"><span class="c11">RentApply Group - <a href="http://dev-open-housing-asheville.pantheon.io/rentapply/">view project</a></span></h2>
 <p class="c1">RentApply is for people. We are a community network that matches tenants and landlords through a simple online process. Once you join, renters can choose from listings that meet their needs, while landlords can easily search for tenants who match their available properties. One registration, one fee, one credit check.</p>
 
 <ol class="c3 lst-kix_eb1ksr4lv0wq-0 start" start="1">
