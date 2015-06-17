@@ -1,6 +1,6 @@
 ---
 ID: 61
-post_title: Affordable by Industry
+post_title: Industry Affordability
 author: conantp
 post_date: 2015-06-04 18:18:07
 post_excerpt: ""
