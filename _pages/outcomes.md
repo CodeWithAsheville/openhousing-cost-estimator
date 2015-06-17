@@ -13,7 +13,7 @@ wp_github_commits_page_fields:
 ---
 <h1 class="c1 c13">Open Housing Outcomes</h1>
 <a href="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/edit#">View Google Doc for these outcomes</a>
-<h2 class="c1 c13"><a name="h.qskd9edw2cj0"></a>Bowen Report Group:</h2>
+<h2 class="c1 c13"><a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">Bowen Report Group:</a></h2>
 <p class="c1"><img title="" src="https://lh6.googleusercontent.com/r42OegHqFuYjGX5pyWn9VLulX-X8Fg2FMnU-H76rfjS97j3KdvMGqguU1MWWsHMBgfqgooIkKip9AVne_9jln0UQ8A9djVIizn0Xzr_4dOOZwx4s_VuWHngmqHwG6BC8vpDToeo" alt="infographic-shortened.jpg" /></p>
 <p class="c1"><span class="c5">View the github repo (has images, source doc, and source graphics):</span></p>
 <p class="c1"><span class="c11"><a class="c6" href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FCodeForAsheville%2Fopenhousing-Bowen-Report-Breakdown&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE1YBW2i632pcWkT0KksiEMmz4SaA">https://github.com/CodeForAsheville/openhousing-Bowen-Report-Breakdown</a></span></p>
@@ -43,7 +43,7 @@ wp_github_commits_page_fields:
 	<li class="c1 c8">Reach out to local media to let them know what we’re doing (A C-T, AVL Blade, MountainX, CPP)</li>
 	<li class="c1 c8">Continue the conversation</li>
 </ol>
-<h2 class="c1 c13"><a name="h.6xwkocghzixt"></a><span class="c11"><a class="c6" href="https://docs.google.com/document/d/1kRYcz87uDi8uKLxm6rQHwaAq_1Y8eBCpSlNgqXK6bfA/edit">RentApply Group</a></span>:</h2>
+<h2 class="c1 c13"><a href="http://dev-open-housing-asheville.pantheon.io/rentapply/"><span class="c11">RentApply Group</span></a></h2>
 <p class="c1">RentApply is for people. We are a community network that matches tenants and landlords through a simple online process. Once you join, renters can choose from listings that meet their needs, while landlords can easily search for tenants who match their available properties. One registration, one fee, one credit check.</p>
 
 <ol class="c3 lst-kix_eb1ksr4lv0wq-0 start" start="1">
@@ -71,7 +71,7 @@ wp_github_commits_page_fields:
 	<li class="c1 c8">Communication portal for both parties where lease can be signed, documents shared etc. All parties could use for legal records later.</li>
 	<li class="c1 c8">What happens when there is no option that is affordable?</li>
 </ul>
-<p class="c1"><span class="c4">Industry Affordability:</span></p>
+<h2 class="c1"><span class="c4">Industry Affordability Group:</span></h2>
 <p class="c1"><img title="" src="https://lh6.googleusercontent.com/CnpwQvd5x2UPR3vLqlR_SSIt1hljkp9x3lVyVRXlSGHMRrsLTC9VoZ0neaiQQAEhib9im3apxYuRTBbhOByUH_XAzY0kHNfUy1VMpTtjIQZU6ZzQmIsTOea_V6bkfMYmta2RS9g" alt="CrowdedHouse.png" /></p>
 <p class="c1"><span class="c9">Affordable housing standards are typically based upon the median household income. We set out to build a visualization that provides a deeper perspective on the issue of affordability - by breaking down Asheville into income-based groups, then calculating the number of renters required to make rent for various rental prices. We supplemented this information by identifying the proportion of the local workforce that falls into each income category.</span></p>
 
@@ -99,7 +99,6 @@ wp_github_commits_page_fields:
 	<li class="c1 c8"><span class="c10">“Last year, over 700 students in Buncombe County were identified as homeless many of them living in overcrowded homes with frequent moves. As low-income parents juggle costs of transportation, utilities, medical expenses, food, and child care they are often one missed payment or paycheck away from eviction. In the end, investing in safe, affordable housing for parents will result in improved outcomes for the health and education of our children.”</span></li>
 </ul>
 <p class="c1 c14"><span class="c10 c11"><a class="c6" href="http://www.google.com/url?q=http%3A%2F%2Fchildrenfirstcisbc.org%2F2015%2F03%2Faffordable-housing-101-why-it-matters-for-children%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH81nSmIXOI_B6xcQ5r-rfFThGpPw">http://childrenfirstcisbc.org/2015/03/affordable-housing-101-why-it-matters-for-children/</a></span></p>
-<p class="c1"></p>
 <p class="c1">       2.  Search criteria for affordable housing near schools</p>
 <p class="c1 c14"><span class="c10">- How close is the busline to the school my child attends?</span></p>
 <p class="c1 c14"><span class="c10">- Is it within walking distance, less than a mile?</span></p>
