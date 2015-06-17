@@ -45,7 +45,7 @@ wp_github_commits_page_fields:
 	<li class="c1 c8">Reach out to local media to let them know what we’re doing (A C-T, AVL Blade, MountainX, CPP)</li>
 	<li class="c1 c8">Continue the conversation</li>
 </ol>
-<h2 class="c1 c13"><span class="c11">RentApply Group - <a href="http://dev-open-housing-asheville.pantheon.io/rentapply/">view project</a></span></h2>
+<h2 class="c1 c13">RentApply Group - <a href="http://dev-open-housing-asheville.pantheon.io/rentapply/">view project</a></h2>
 <p class="c1">RentApply is for people. We are a community network that matches tenants and landlords through a simple online process. Once you join, renters can choose from listings that meet their needs, while landlords can easily search for tenants who match their available properties. One registration, one fee, one credit check.</p>
 
 <ol class="c3 lst-kix_eb1ksr4lv0wq-0 start" start="1">
