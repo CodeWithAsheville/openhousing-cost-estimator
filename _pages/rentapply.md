@@ -18,6 +18,35 @@ RentApply is an application that allows prospective tenants to submit a single, 
 <a href="https://github.com/CodeForAsheville/openhousing-rentapply">Github repo for this project</a>
 
 <a href="https://docs.google.com/document/d/1kRYcz87uDi8uKLxm6rQHwaAq_1Y8eBCpSlNgqXK6bfA/edit#">Google Doc for this project</a>
+<h2>Project Outcomes</h2>
+<p class="c1">RentApply is for people. We are a community network that matches tenants and landlords through a simple online process. Once you join, renters can choose from listings that meet their needs, while landlords can easily search for tenants who match their available properties. One registration, one fee, one credit check.</p>
+
+<ol class="c3 lst-kix_eb1ksr4lv0wq-0 start" start="1">
+	<li class="c1 c8">Renters fill out one application form and answer some general questions about what they are looking</li>
+</ol>
+<ol class="c3 lst-kix_eb1ksr4lv0wq-1 start" start="1">
+	<li class="c1 c2">Criteria plus standard application</li>
+</ol>
+<ol class="c3 lst-kix_eb1ksr4lv0wq-2 start" start="1">
+	<li class="c1 c17">Locations</li>
+	<li class="c1 c17">How much do I want to pay?</li>
+</ol>
+<ol class="c3 lst-kix_eb1ksr4lv0wq-0" start="2">
+	<li class="c1 c8">Landlords can view submitted applications and select potential renters</li>
+	<li class="c1 c8">Evaluations/Reviews for both tenants and landlords</li>
+</ol>
+<p class="c1"><span class="c12">Next Steps</span></p>
+<p class="c1">Things to Consider</p>
+
+<ul class="c3 lst-kix_vf0ms083ajwo-0 start">
+	<li class="c1 c8">Sublease agreements</li>
+	<li class="c1 c8">Linking to outside resources - partnering with online background/credit check group for tenants to apply online and be provided with a link/file to embed on RentApply for future viewing.</li>
+	<li class="c1 c8">Tenant rating system</li>
+	<li class="c1 c8">Friend network referral system</li>
+	<li class="c1 c8">Communication portal for both parties where lease can be signed, documents shared etc. All parties could use for legal records later.</li>
+	<li class="c1 c8">What happens when there is no option that is affordable?</li>
+	<li></li>
+</ul>
 <h2>Project Information/Methodology</h2>
 Behaviors:
 <ol>
