@@ -1,6 +1,6 @@
 ---
 ID: 61
-post_title: Industry Affordability
+post_title: 'Industry Affordability: Crowded House'
 author: conantp
 post_date: 2015-06-04 18:18:07
 post_excerpt: ""
