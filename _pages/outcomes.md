@@ -13,7 +13,9 @@ wp_github_commits_page_fields:
 ---
 <h1 class="c1 c13">Open Housing Outcomes</h1>
 <a href="https://docs.google.com/document/d/1O3Taj1qZDp4KX3NNg1EPyjMmcAGbklOC_9R47Tuwtd0/edit#">View Google Doc for these outcomes</a>
-<a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/"><h2 class="c1 c13">Bowen Report Group:</h2></a>
+<a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">
+</a>
+<h2 class="c1 c13"><a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">Bowen Report Group:</a></h2>
 <p class="c1"><img title="" src="https://lh6.googleusercontent.com/r42OegHqFuYjGX5pyWn9VLulX-X8Fg2FMnU-H76rfjS97j3KdvMGqguU1MWWsHMBgfqgooIkKip9AVne_9jln0UQ8A9djVIizn0Xzr_4dOOZwx4s_VuWHngmqHwG6BC8vpDToeo" alt="infographic-shortened.jpg" /></p>
 <p class="c1"><span class="c5">View the github repo (has images, source doc, and source graphics):</span></p>
 <p class="c1"><span class="c11"><a class="c6" href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FCodeForAsheville%2Fopenhousing-Bowen-Report-Breakdown&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE1YBW2i632pcWkT0KksiEMmz4SaA">https://github.com/CodeForAsheville/openhousing-Bowen-Report-Breakdown</a></span></p>
