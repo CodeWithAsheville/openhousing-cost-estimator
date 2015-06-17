@@ -70,5 +70,3 @@ Task list:
 </li>
 </ol>
 &nbsp;
-
-<iframe src="http://codeforasheville.github.io/openhousing-industry-affordability/" width="100%" height="500px"></iframe>
