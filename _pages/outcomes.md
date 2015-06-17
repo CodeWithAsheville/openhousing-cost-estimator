@@ -16,7 +16,6 @@ wp_github_commits_page_fields:
 <a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">
 <img src="https://github.com/CodeForAsheville/openhousing-Bowen-Report-Breakdown/blob/master/infographics/infographic-houses.jpg?raw=true" alt="infographic-houses.jpg" /> </a>
 <h2 class="c1 c13">Bowen Report Group - <a href="http://dev-open-housing-asheville.pantheon.io/bowen-report-analysis/">view project</a></h2>
-<p class="c1"></p>
 <p class="c1"><span class="c5">View the github repo (has images, source doc, and source graphics):</span></p>
 <p class="c1"><span class="c11"><a class="c6" href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FCodeForAsheville%2Fopenhousing-Bowen-Report-Breakdown&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE1YBW2i632pcWkT0KksiEMmz4SaA">https://github.com/CodeForAsheville/openhousing-Bowen-Report-Breakdown</a></span></p>
 <p class="c1"><span class="c5">What we did today:</span></p>
